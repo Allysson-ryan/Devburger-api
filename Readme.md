@@ -109,3 +109,8 @@ Certifique-se de substituir os valores pelos dados corretos para o seu ambiente.
 - **`PUT /orders/:id`**: Atualização do status de um pedido.
 
 Desenvolvido por [Allysson Ryan](https://github.com/Allysson-ryan).
+
+
+## 📫 Screenshot do fluxograma da Api
+
+![screenshot](src/assets/fluxograma-Devburger.png)
